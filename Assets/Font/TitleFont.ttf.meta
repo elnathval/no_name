@@ -3,7 +3,7 @@ guid: 5fc0f1faa2609784b9dde9ada639d696
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
-  fontSize: 16
+  fontSize: 40
   forceTextureCase: -2
   characterSpacing: 0
   characterPadding: 1
@@ -12,7 +12,7 @@ TrueTypeFontImporter:
   - Early GameBoy
   fallbackFontReferences: []
   customCharacters: 
-  fontRenderingMode: 3
+  fontRenderingMode: 2
   ascentCalculationMode: 1
   useLegacyBoundsCalculation: 0
   shouldRoundAdvanceValue: 1
